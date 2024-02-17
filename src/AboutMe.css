@@ -1,0 +1,56 @@
+.about-me-container {
+    background-color:rgb(255,253,208); /* Creamy background */
+    padding: 20px;
+    margin: 1px;
+  }
+  
+  .about-me-content {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  
+  .marquee-img {
+    width: 100px; /* Adjust as needed */
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .profile-pic {
+    width: 350px; /* Adjust as needed */
+    height: 250px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .contact-info h3 {
+    color: #484848; /* Dark gray text */
+  }
+  
+  .contact-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-info ul li {
+    margin-bottom: 10px;
+  }
+  
+  .contact-info ul li a {
+    color: #4caf50; /* Green link color */
+    text-decoration: none;
+  }
+  
+  .contact-info ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    color: #f3ccc0; /* Deep orange */
+  }
+  
+  p {
+    color: #333; /* Dark gray text */
+  }
